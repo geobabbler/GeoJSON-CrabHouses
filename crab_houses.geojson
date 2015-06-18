@@ -143,6 +143,32 @@
           38.49781945178232
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Courtney's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.40609800815582,
+          38.10953938381932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scheible's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4048320055008,
+          38.110214724259194
+        ]
+      }
     }
   ]
 }
