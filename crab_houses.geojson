@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruddy Duck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49479866027832,
+          38.130856024466375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandgates Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60886764526367,
+          38.413286235395596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain Leonard's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69497191905975,
+          38.417947529785046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drift Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64544761180878,
+          38.43909400699936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stoney's Crab House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54520004987717,
+          38.412783940910046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxy Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7673271894455,
+          38.464354917234836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonard Copsey Seafood Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77218198776245,
+          38.46746098257548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain Billy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99110925197601,
+          38.39812339032333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain John's Crab House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85139834880829,
+          38.2677820276609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shymansky's Marina and Seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8500679731369,
+          38.26739875854746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crabby Dick's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02675580978394,
+          38.49781945178232
+        ]
+      }
+    }
+  ]
+}
